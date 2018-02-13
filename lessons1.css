@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+.tabledescription td{
+    background-color:aquamarine;
+}
+
+td{
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #42f48f;
+    text-align: center;
+}
+
+p{
+    
+}
+#highlight{
+    background-color: peachpuff;
+    color:palegreen;
+}
+*{
+    box-sizing: border-box;
+
+}

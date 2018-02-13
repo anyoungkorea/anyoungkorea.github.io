@@ -1,0 +1,46 @@
+(ingredient files)
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
+        <link href="pages.css" rel="stylesheet" type="text/css">
+        <link href="navbar.css" rel="stylesheet" type="text/css">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>
+            Main Menu
+        </title>
+    </head>
+    
+    <body>
+        
+            <div class="topbar">
+                <div class="menu">
+                    <ul class="menulist">
+                        <li class="menubutton">
+                            <a href="index.html" class="amenu">หน้าหลัก</a>
+                        </li >
+                        <li class="menubutton">
+                            <a href="lessons1.html" class="amenu">พยัญชนะ</a>
+                        </li>
+                        <li class="menubutton">
+                            <a href="lessons2.html" class="amenu">สระ</a>
+                        </li>
+                        <li class="menubutton">
+                            <a href="lessons3.html" class="amenu">หลักการอ่าน</a>
+                        </li>
+                        <li class="menubutton">
+                            <a href="#" class="amenu">พวกเราคือใคร</a>
+                        </li>
+                    </ul>    
+                </div>
+            </div>
+            
+        <div class="field">
+            
+           
+        </div>
+        
+    </body>
+
+</html>

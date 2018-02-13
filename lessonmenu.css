@@ -1,0 +1,113 @@
+.field{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    margin: 50px;
+    
+}
+
+.lessonmenu {
+    position: relative;
+    margin-top: 50px;
+}
+
+.selectmenu{
+    margin : 50px;
+}
+
+#alphabet {
+    display: inline-block;
+    max-width: 200px;
+    padding: 20px;
+    border: 1px solid aquamarine;
+    border-radius: 10px;
+    height: 150px;
+    background-color: aquamarine;
+    box-shadow: 0px 0px 3px 0px black;
+}
+
+#alphabet a{
+    display:inline-block;
+    height: 10px;
+    margin: 0;
+    font-size: 30px;
+    color: whitesmoke;
+    text-shadow: 3px 3px 8px black;
+    transition: all 0.3s ease-in;
+}
+
+#alphabet a:hover{
+    transform: scale(1.2);
+    color: aquamarine;
+}
+
+#alphabet:hover{
+    background-color: aliceblue;
+    transition: all 0.3s ease-in;
+    border:1px solid aliceblue;
+}
+
+#sara{
+    display: inline-block;
+    max-width: 200px;
+    padding: 20px;
+    border: 1px solid aquamarine;
+    border-radius: 10px;
+    height: 150px;
+    background-color: aquamarine;
+    box-shadow: 0px 0px 3px 0px black;
+}
+
+#sara a{
+    display:inline-block;
+    height: 10px;
+    margin: 0;
+    font-size: 30px;
+    color: whitesmoke;
+    text-shadow: 3px 3px 8px black;
+    transition: all 0.3s ease-in;
+}
+
+#sara a:hover{
+    transform: scale(1.2);
+    color: aquamarine;
+}
+
+#sara:hover{
+    background-color: aliceblue;
+    transition: all 0.3s ease-in;
+    border:1px solid aliceblue;
+}
+
+#karnarn{
+    display: inline-block;
+    max-width: 200px;
+    padding: 20px;
+    border: 1px solid aquamarine;
+    border-radius: 10px;
+    height: 150px;
+    background-color: aquamarine;
+    box-shadow: 0px 0px 3px 0px black;
+}
+
+#karnarn a{
+    display: inline-block;
+    height: 10px;
+    margin: 0;
+    font-size: 30px;
+    color: whitesmoke;
+    text-shadow: 3px 3px 8px black;
+    transition: all 0.3s ease-in;
+}
+
+#karnarn a:hover{
+    transform: scale(1.2);
+    color: aquamarine;
+}
+
+#karnarn:hover{
+    background-color: aliceblue;
+    transition: all 0.3s ease-in;
+    border:1px solid aliceblue;
+}

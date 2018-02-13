@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
+        <link href="pages.css" rel="stylesheet" type="text/css">
+        <link href="navbar.css" rel="stylesheet" type="text/css">
+        <title>
+            Main Menu
+        </title>
+    </head>
+    
+    <body>
+        
+            <div class="topbar">
+                <div class="menu">
+                    <ul class="menulist">
+                        <li class="menubutton">
+                            <a href="#" class="amenu">Home</a>
+                        </li >
+                        <li class="menubutton">
+                            <a href="#" class="amenu">Lessons</a>
+                        </li>
+                        <li class="menubutton">
+                            <a href="#" class="amenu">About Me</a>
+                        </li>
+                    </ul>    
+                </div>
+            </div>
+            
+        <div class="field">
+            <div 
+           
+        </div>
+        
+    </body>
+
+</html>
