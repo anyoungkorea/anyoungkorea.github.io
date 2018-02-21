@@ -9,13 +9,10 @@ td{
 
 #highlight{
     background-color: peachpuff;
-    color:palegreen;
+    color:#3CB371;
 }
 
-iframe{
-    display: block;
-    margin: 0 auto;
-}
+
 
 .field h1{
     margin-left: 20px;

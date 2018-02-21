@@ -2,7 +2,7 @@
     text-align: center;
 }
 .tabledescription td{
-    background-color:aquamarine;
+    background-color:#E6E6FA;
 }
 
 td{
@@ -10,7 +10,7 @@ td{
     padding-right: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #42f48f;
+    background-color: #FFE4E1	;
     text-align: center;
 }
 
@@ -19,7 +19,7 @@ p{
 }
 #highlight{
     background-color: peachpuff;
-    color:palegreen;
+    color:#3CB371;
 }
 *{
     box-sizing: border-box;

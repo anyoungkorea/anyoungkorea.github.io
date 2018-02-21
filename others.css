@@ -1,0 +1,26 @@
+iframe{
+    display: block;
+    margin: 0 auto;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+.picture1{
+    text-align: center;
+    display:block;
+    
+}
+
+.picture2 {
+    text-align: center;
+    display:block;
+}
+
+.picture3 {
+    text-align: center;
+    display:block;
+}
+
+#highlight{
+    background-color: peachpuff;
+    color:#3CB371;
+}

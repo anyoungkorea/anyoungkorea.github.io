@@ -12,7 +12,7 @@
 
 .webcover{
     text-align: center;
-    background-image: url(koreaflag.png);
+    background-image: url(North-Korea-and-South-Korea-Flags-900.jpg);
     background-size: cover;
     height: 500px;
     font-size: 2em;
@@ -26,12 +26,12 @@
 }
 
 .word{
-    color: #f4e242;
+    color: #FFD700;
     text-shadow: 0px 0px 2px black;
     position: relative;
     display: inline-block;
     margin-top: 120px;
-    
+    text-shadow: 1px 8px black; 
 }
 
 .field{
@@ -167,6 +167,11 @@
 
 #highlight{
     background-color: peachpuff;
-    color:palegreen;
+    color:#3CB371;
+}
+
+.koreaword{
+    color:#00FFFF;
+    text-shadow: 1px 8px black; 
 }
 
